@@ -1,0 +1,70 @@
+D:\PrograSemestre4\C# MVC\Inventario\bin\Debug\net8.0\appsettings.Development.json
+D:\PrograSemestre4\C# MVC\Inventario\bin\Debug\net8.0\appsettings.json
+D:\PrograSemestre4\C# MVC\Inventario\bin\Debug\net8.0\Inventario.staticwebassets.runtime.json
+D:\PrograSemestre4\C# MVC\Inventario\bin\Debug\net8.0\Inventario.exe
+D:\PrograSemestre4\C# MVC\Inventario\bin\Debug\net8.0\Inventario.deps.json
+D:\PrograSemestre4\C# MVC\Inventario\bin\Debug\net8.0\Inventario.runtimeconfig.json
+D:\PrograSemestre4\C# MVC\Inventario\bin\Debug\net8.0\Inventario.dll
+D:\PrograSemestre4\C# MVC\Inventario\bin\Debug\net8.0\Inventario.pdb
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\Inventario.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\Inventario.AssemblyInfoInputs.cache
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\Inventario.AssemblyInfo.cs
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\Inventario.csproj.CoreCompileInputs.cache
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\Inventario.MvcApplicationPartsAssemblyInfo.cache
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\Inventario.RazorAssemblyInfo.cache
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\Inventario.RazorAssemblyInfo.cs
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\staticwebassets.build.json
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\staticwebassets.development.json
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\staticwebassets\msbuild.Inventario.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\staticwebassets\msbuild.build.Inventario.props
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Inventario.props
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Inventario.props
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\staticwebassets.pack.json
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\scopedcss\bundle\Inventario.styles.css
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\scopedcss\projectbundle\Inventario.bundle.scp.css
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\Inventario.dll
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\refint\Inventario.dll
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\Inventario.pdb
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\Inventario.genruntimeconfig.cache
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\ref\Inventario.dll
+D:\PrograSemestre4\C# MVC\Inventario\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\PrograSemestre4\C# MVC\Inventario\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PrograSemestre4\C# MVC\Inventario\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\Inventario.csproj.AssemblyReference.cache
+D:\PrograSemestre4\C# MVC\Inventario\obj\Debug\net8.0\Inventario.csproj.Up2Date
+D:\PrograSemestre4\C#\Inventario\bin\Debug\net8.0\appsettings.Development.json
+D:\PrograSemestre4\C#\Inventario\bin\Debug\net8.0\appsettings.json
+D:\PrograSemestre4\C#\Inventario\bin\Debug\net8.0\Inventario.staticwebassets.runtime.json
+D:\PrograSemestre4\C#\Inventario\bin\Debug\net8.0\Inventario.exe
+D:\PrograSemestre4\C#\Inventario\bin\Debug\net8.0\Inventario.deps.json
+D:\PrograSemestre4\C#\Inventario\bin\Debug\net8.0\Inventario.runtimeconfig.json
+D:\PrograSemestre4\C#\Inventario\bin\Debug\net8.0\Inventario.dll
+D:\PrograSemestre4\C#\Inventario\bin\Debug\net8.0\Inventario.pdb
+D:\PrograSemestre4\C#\Inventario\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\PrograSemestre4\C#\Inventario\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PrograSemestre4\C#\Inventario\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\Inventario.csproj.AssemblyReference.cache
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\Inventario.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\Inventario.AssemblyInfoInputs.cache
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\Inventario.AssemblyInfo.cs
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\Inventario.csproj.CoreCompileInputs.cache
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\Inventario.MvcApplicationPartsAssemblyInfo.cache
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\Inventario.RazorAssemblyInfo.cache
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\Inventario.RazorAssemblyInfo.cs
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\staticwebassets.build.json
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\staticwebassets.development.json
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\staticwebassets\msbuild.Inventario.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\staticwebassets\msbuild.build.Inventario.props
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Inventario.props
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Inventario.props
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\staticwebassets.pack.json
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\scopedcss\bundle\Inventario.styles.css
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\scopedcss\projectbundle\Inventario.bundle.scp.css
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\Inventario.csproj.Up2Date
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\Inventario.dll
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\refint\Inventario.dll
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\Inventario.pdb
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\Inventario.genruntimeconfig.cache
+D:\PrograSemestre4\C#\Inventario\obj\Debug\net8.0\ref\Inventario.dll

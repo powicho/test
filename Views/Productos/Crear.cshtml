@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Crear nuevo producto";
+}
+
+@model Inventario.Models.Producto
+<div class="container mt-5">
+    <h1 class="mb-4">Crear Producto</h1>
+
+    <div class="card mb-4 mx-4">
+        <div class="card-header">
+            <h2>Ingresa el nombre del producto</h2>
+        </div>
+
+        <div class="card-body">
+            <form id="FormularioOperacion" asp-action="Crear" method="post">
+                <div class="mb-3">
+                    <label for="NombreProucto" class="form-label">Nombre del producto</label>
+                    <input type="text" class="form-control" id="NombreProucto" placeholder="Ingresa el nombre del producto" asp-for="Nombre"/>
+                </div>
+                <div class="mb-3">
+                    <label for="AñoProducto" class="form-label">Año del producto</label>
+                    <input type="number" class="form-control" id="AñoProducto" placeholder="Ingresa el precio del producto" asp-for="Año"/>
+                </div>
+
+                <div class="mb-3">
+                    <label for="PrecioProducto" class="form-label">Precio del producto</label>
+                    <input type="number" class="form-control" id="PrecioProducto" placeholder="Ingresa la cantidad en stock" asp-for="Precio"/>
+                </div>
+
+                <div class="mb-3">
+                    <button type="submit" class="btn btn-primary">Crear Producto</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
